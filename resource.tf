@@ -1,4 +1,4 @@
-resource "azurerm_resource_group" "Assignterra" {
-    name     = "Assignterra"
+resource "azurerm_resource_group" "terra" {
+    name     = "terraazure"
     location = "East US"
 }
